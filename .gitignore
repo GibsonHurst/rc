@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+venv/
+.env/           
+*.egg-info/
+.DS_Store
+
+data/
+*.parquet
+*.csv
+*.png
+*.svg
+
+.env
+*.toml
+
+.vscode/settings.json
