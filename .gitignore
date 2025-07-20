@@ -5,6 +5,8 @@ venv/
 *.egg-info/
 .DS_Store
 
+sklearn-env
+
 data/
 *.parquet
 *.csv
